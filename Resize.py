@@ -1,17 +1,6 @@
 import os.path
 import sys
 from PIL import Image
-#
-# 在csdn无意看到的
-# 原作者:版权声明：本文为博主原创文章，转载请保留出处http://blog.csdn.net/offbye
-#
-# ----------------------------------------------------------------------------
-#
-# 原作者是用Python2.x来运行的,然后我改了3.x,因为在我的电脑通常拿py3.5来运行的
-# 开始要装PIL 这个module,作者也没提到
-#
-# 用法:python Resize.py [Project Path]/src/main/res
-#
 
 
 def image_resize(img_file, target, percent):
