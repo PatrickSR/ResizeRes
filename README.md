@@ -6,8 +6,7 @@ Automatic Generate Android Resource Image Size
 
 ## Background
 在csdn无意看到的
-[http://blog.csdn.net/offbye/article/details/50012605]()的《自动生成Android不同分辨率下的图片》
-
+[《自动生成Android不同分辨率下的图片》](http://blog.csdn.net/offbye/article/details/50012605)
 大致看了一下觉得挺不错的
 
 但是估计作者是在windows下面开发Android，所以没遇到像Mac下面存在.DS_Store 的情况导致运行失败。
